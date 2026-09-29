@@ -28,8 +28,8 @@ import streamlit as st
 # Barra lateral (Sidebar)
 st.sidebar.title("Información del Estudiante")
 st.sidebar.write("**Descripción:** Aplicación para evaluar la calidad de un lote según pH y temperatura.")
-st.sidebar.write("**Nombre:** Yeimi Valiente")
-st.sidebar.write("**Grupo:** 1A")
+st.sidebar.write("**Nombre:** Yeimi Valiente Cervantes")
+st.sidebar.write("**Grupo:** 3L")
 st.sidebar.write("**Facultad:** Facultad de Ciencias Químicas")
 
 # Contenido principal
